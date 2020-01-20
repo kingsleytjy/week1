@@ -6,7 +6,7 @@
 package javaapplication4;
 
 /**
- * this is a change
+ * this is a second change
  * @author kings
  */
 public class JavaApplication4 {
